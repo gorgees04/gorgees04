@@ -13,6 +13,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div>
+  <img src='./images/name_pic.png' />
+</div> <br/>
+
 👋 I'm diving into the realm of web development, fascinated by how computers, websites, and technology come to life! 🚀
 
 💡 As a web developer, I bring expertise in HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind, GitHub, Linux, Python, and Node.js to the table for frontend development.
