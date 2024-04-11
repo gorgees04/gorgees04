@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 This's Gorgees, I'm a full stack web developer I'm diving into the realm of web development, fascinated by how computers, websites, and technology come to life! 🚀
 
 💡 As a web developer, I bring expertise in JavaScript, TypeScript, React, Next.js, Redux, Tailwind, Python, Node.js and SQL\MySQL and many more of the full-stack tools to the table.
